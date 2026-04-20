@@ -8,7 +8,7 @@ This project is made with **HTML, CSS, and JavaScript** and includes animations,
 ---
 
 ## 🚀 Live Demo  
-👉 [Click here to view the site]((https://notsoarshh.github.io/Birthdayyy/))  
+👉 [Click here to view the site](https://notsoarshh.github.io/Birthdayyy/)  
 
 ---
 
